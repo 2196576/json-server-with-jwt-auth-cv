@@ -8,7 +8,7 @@ You get information about "JSON-Server" in https://github.com/typicode/json-serv
 
 Enter this command to start your API REST server:
 
-```node index```
+```npm run run```
 
 In this case, JSON server starts on Port 3000 and uses a json file the path: "json-samples/default.json".
 
