@@ -24,7 +24,7 @@ Port configuration and JSON file can be configured via args:
 
 Send to /login and /sign-in routes a POST request with user object in body, like this:
 
-```{email: "user@example.com", password: "1234"}```
+```{email: "juan@cognizant.com", password: "123123tomS#"}```
 
 Send to "/verify" route the auth token in the HTTP headers.
 
